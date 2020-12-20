@@ -3,23 +3,26 @@
 ### رضا فلاحی
 
 ---
-- [حساب گیت هاب](https://github.com/masoudjfr)
-- [آدرس رزومه](https://masoudjfr.github.io/Resume/)
-- [SOP](https://masoudjfr.github.io/SOP/)
+- [حساب گیت هاب](https://github.com/RFallahi)
+- [آدرس رزومه](https://rfallahi.github.io/Reza/)
+- [SOP](https://rfallahi.github.io/Sop/)
+- [CERTIFICAETS]()
+- [Patchwork]()
 
 -------------------
 ## گروه ها
 
-1. G-L02
-
-   1. [_LMT-19_مسعود جعفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/19_%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%AC%D8%B9%D9%81%D8%B1%20%D9%8A)
+1. G-R01
+   
+   1. [_RAPM-44_رضا فلاحی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/44_%D8%B1%D8%B6%D8%A7%20%D9%81%D9%84%D8%A7%D8%AD%D9%8A)
 
 -----------------
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
-[1115157_02 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+[1322010_01 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 -----------------
 ## روز و ساعت ارائه دروس
@@ -36,7 +39,7 @@
   <tr>
     <th ></th>
     <th ><a </a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانهاوماشين ها 02-1115157</a></th>
+    <th ><a </a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -50,7 +53,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ><a </a> </th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a> </th>
      <th ><a </a></th>
      <th><a </a></th>
      <th><a </a></th>
@@ -82,3 +85,5 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
+
